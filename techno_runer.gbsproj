@@ -2884,7 +2884,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "*sinhing*"
+                                    "go past."
                                 ],
                                 "avatarId": ""
                             },
