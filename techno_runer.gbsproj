@@ -411,7 +411,7 @@
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
-                                    "Hello, its's a very old bunker.So you need to ascape it."
+                                    "Hello, it's a very old bunker. So you need to escape it."
                                 ],
                                 "avatarId": ""
                             },
